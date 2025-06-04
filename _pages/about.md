@@ -23,5 +23,5 @@ Major work
 
 Participated work
 ======
-LMR-BENCH: Evaluating LLM Agent’s Ability on Reproducing Language Modeling Research (under submission)
-[IDEA: Enhancing the Rule Learning Ability of Large Language Model Agent through Induction, Deduction, and Abduction](https://arxiv.org/abs/2408.10455)
+- LMR-BENCH: Evaluating LLM Agent’s Ability on Reproducing Language Modeling Research (under submission)
+- [IDEA: Enhancing the Rule Learning Ability of Large Language Model Agent through Induction, Deduction, and Abduction](https://arxiv.org/abs/2408.10455)
