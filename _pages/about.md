@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year computer science Ph.D. student in at The University of Texas at Dallas. I obtained my master degree in statistics at Purdue University in 2021 and my bachelor degree in finance at Shanghai Jiao Tong University in 2019. 
+I am a second-year computer science Ph.D. student in at The University of Texas at Dallas. I obtained my master degree in statistics at Purdue University in 2021 and my bachelor degree in finance at Shanghai Jiao Tong University in 2019. I worked as a research assistant in CUHKSZ between 2023 and 2024.
+
 
 My research interest focuses on reasoning and related applications.
 
