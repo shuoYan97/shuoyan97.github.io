@@ -20,7 +20,7 @@ Research interest
 
 Major work
 ======
-- LMR-BENCH: Evaluating LLM Agent’s Ability on Reproducing Language Modeling Research (EMNLP 2025)
+- [LMR-BENCH: Evaluating LLM Agent’s Ability on Reproducing Language Modeling Research](https://arxiv.org/pdf/2506.17335)
 
 Participated work
 ======
