@@ -26,6 +26,8 @@ announcements:
 
 My name is **Shuo Yan**, and I am a Ph.D. student at the University of Texas at Dallas, advised by Dr. [Xiwei Tang](https://sites.google.com/view/xiweitang-homepage). Before joining UT Dallas, I worked as a research assistant at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), under the supervision of Dr. [Benyou Wang](https://wabyking.github.io/) and Dr. [Anningzhe Gao](https://scholar.google.com/citations?user=MLrDtaUAAAAJ&hl=en). I am deeply grateful for the research training and mentorship I received at CUHK-Shenzhen.
 
+<div style="clear: both;"></div>
+
 My research interests lie broadly in **LLM safety, reasoning, and evaluation**. I am currently exploring the following topics:
 
 **LLM unlearning**
