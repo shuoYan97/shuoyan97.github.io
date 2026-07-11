@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shuoYan97.github.io/al-folio/sitemap.xml
